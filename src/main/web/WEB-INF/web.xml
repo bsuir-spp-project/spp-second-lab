@@ -5,7 +5,7 @@
          version="3.1">
     <servlet>
         <servlet-name>Controller</servlet-name>
-        <servlet-class>by.bsuir.spp.servlests.Controller</servlet-class>
+        <servlet-class>by.bsuir.spp.servlet.Controller</servlet-class>
     </servlet>
 
     <servlet-mapping>
@@ -15,6 +15,6 @@
     </servlet-mapping>
 
     <listener>
-        <listener-class>by.bsuir.spp.listeners.ServletListener</listener-class>
+        <listener-class>by.bsuir.spp.listener.ServletListener</listener-class>
     </listener>
 </web-app>

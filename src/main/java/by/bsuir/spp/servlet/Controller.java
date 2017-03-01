@@ -1,10 +1,9 @@
-package by.bsuir.spp.servlests;
+package by.bsuir.spp.servlet;
 
 import by.bsuir.spp.bean.Result;
 import by.bsuir.spp.service.IService;
 import by.bsuir.spp.service.exception.ServiceException;
 import by.bsuir.spp.service.factory.ServiceFactory;
-import by.bsuir.spp.service.impl.Service;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;

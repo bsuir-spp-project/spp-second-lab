@@ -1,4 +1,4 @@
-package by.bsuir.spp.listeners;
+package by.bsuir.spp.listener;
 
 import by.bsuir.spp.service.exception.ServiceException;
 import by.bsuir.spp.service.impl.Service;
